@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "react-native-pure-structure": ["./src/index"]
+      "@pureboard/react-native-pure-structure": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

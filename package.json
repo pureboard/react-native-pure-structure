@@ -1,5 +1,5 @@
 {
-  "name": "react-native-pure-structure",
+  "name": "@pureboard/react-native-pure-structure",
   "version": "0.1.0",
   "description": "react native structure",
   "source": "./src/index.tsx",
